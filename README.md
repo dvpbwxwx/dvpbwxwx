@@ -24,10 +24,10 @@ I specialize in **Machine Learning**, **Natural Language Processing (NLP)**, and
 ---
 ### 🚀 Featured Projects
 
-* 🛡️ **[Cyberbullying Sentiment Analysis](https://github.com/dvpbwxwx/CYBERBULLYING SENTIMENT ANALYSIS)**  
+* 🛡️ **[Cyberbullying Sentiment Analysis](https://github.com/dvpbwxwx/CYBERBULLYING-SENTIMENT-ANALYSIS)**  
   Fine-tuning IndoBERT & RoBERTa for TikTok cyberbullying detection, validated with Cohen's Kappa Score (0.9132). Published in JAIC Journal.
 
-* 💰 **[BUDGETin Machine Learning](https://github.com/dvpbwxwx/BUDGETin-machine-learning)**  
+* 💰 **[BUDGETin Machine Learning](https://github.com/dvpbwxwx/BUDGETin---Machine-Learning)**  
   LSTM Recurrent Neural Network model for predictive personal expense tracking. Developed during Bangkit Academy 2024 Capstone.
 
 * 🗺️ **[Demak Regency WebGIS](https://github.com/dvpbwxwx/WEBGIS-KAB-DEMAK)**  
