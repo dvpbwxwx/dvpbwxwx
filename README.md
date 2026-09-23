@@ -23,22 +23,6 @@ I specialize in **Machine Learning**, **Natural Language Processing (NLP)**, and
 
 ---
 
-### 📌 Featured Repositories / Projects
-
-#### 1. 🛡️ [Cyberbullying Sentiment Analysis & Classification]
-> *Model klasifikasi sentimen perundungan siber menggunakan Zero-Shot & Pre-trained Transformers (IndoBERT) dengan Cohen's Kappa Validation.*
-> - **Tech:** Python, IndoBERT, Transformers, Scikit-learn
-
-#### 2. 💰 [budgetIN - Predictive Financial Management]
-> *Aplikasi manajemen keuangan interaktif dengan integrasi model regresi Machine Learning untuk estimasi pengeluaran.*
-> - **Tech:** Python, TensorFlow, Pandas, Matplotlib
-
-#### 3. 🗺️ [WebGIS Population Distribution]
-> *Pemetaan dan visualisasi persebaran penduduk Kabupaten Demak berbasis data spasial dan OpenStreetMap.*
-> - **Tech:** WebGIS, Spatial Data Analysis, Leaflet/Folium
-
----
-
 ### 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/davidrianprabowoo](https://www.linkedin.com/in/davidrianprabowoo)
 - **Email:** davidrianpra29@gmail.com
