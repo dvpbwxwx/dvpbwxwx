@@ -22,6 +22,18 @@ I specialize in **Machine Learning**, **Natural Language Processing (NLP)**, and
 - **Tools & Cloud:** Jupyter, Git, GitHub, Google Cloud Platform (GCP)
 
 ---
+### 🚀 Featured Projects
+
+* 🛡️ **[Cyberbullying Sentiment Analysis](https://github.com/dvpbwxwx/CYBERBULLYING SENTIMENT ANALYSIS)**  
+  Fine-tuning IndoBERT & RoBERTa for TikTok cyberbullying detection, validated with Cohen's Kappa Score (0.9132). Published in JAIC Journal.
+
+* 💰 **[BUDGETin Machine Learning](https://github.com/dvpbwxwx/BUDGETin-machine-learning)**  
+  LSTM Recurrent Neural Network model for predictive personal expense tracking. Developed during Bangkit Academy 2024 Capstone.
+
+* 🗺️ **[Demak Regency WebGIS](https://github.com/dvpbwxwx/WEBGIS-KAB-DEMAK)**  
+  Interactive spatial data visualization of population density and growth rate using QGIS and Leaflet.js. Published in ROUTER Journal.
+  
+---
 
 ### 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/davidrianprabowoo](https://www.linkedin.com/in/davidrianprabowoo)
