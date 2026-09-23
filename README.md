@@ -1,6 +1,6 @@
 # Hi there, I'm David Rian Prabowo! 👋
 
-🎓 **S1 Informatika** | 📊 **Data & AI Enthusiast** | 🤖 **Machine Learning Practitioner**
+🎓 **S1 Informatics** | 📊 **Data & AI Enthusiast** | 🤖 **Machine Learning Practitioner**
 
 I specialize in **Machine Learning**, **Natural Language Processing (NLP)**, and **Data Analysis**. I enjoy transforming raw data into actionable insights and building predictive models.
 
